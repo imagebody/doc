@@ -1,0 +1,4 @@
+CLOSE > 0,BK;
+CLOSE > 0,sP;
+CLOSE > 0,sK;
+CLOSE > 0,BP;
